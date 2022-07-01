@@ -1,3 +1,4 @@
+package com.cg.junit;
 import org.junit.jupiter.api.Assumptions;
 import org.junit.jupiter.api.Test;
 

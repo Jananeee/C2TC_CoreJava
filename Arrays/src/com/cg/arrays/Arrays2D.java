@@ -1,6 +1,6 @@
-package com.tns.arrays2d;
+package com.cg.arrays;
 
-public class Main {
+public class Arrays2D {
 
 	public static void main(String[] args) {
 		int array[][]= {{42,2,41},{52,1,40},{67,9,12}};
